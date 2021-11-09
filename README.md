@@ -1,1 +1,1 @@
-# css-pratice
+# combinators
